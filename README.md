@@ -1,3 +1,7 @@
+
+![KakaoTalk_20250119_144606032_01](https://github.com/user-attachments/assets/92caa7bd-f711-4314-a7eb-06d6c2b87744)
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
