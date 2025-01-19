@@ -1,6 +1,7 @@
 
-![KakaoTalk_20250119_144606032_01](https://github.com/user-attachments/assets/92caa7bd-f711-4314-a7eb-06d6c2b87744)
-
+![KakaoTalk_20250119_144943816](https://github.com/user-attachments/assets/0a6f554e-baf9-4edb-84cc-130baea72a01)
+<br>
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align=center> 
