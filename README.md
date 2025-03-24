@@ -3,7 +3,6 @@
 <br>
 <br>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
 <div align=center> 
   <h3 align="center">✨ Front End ✨</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
